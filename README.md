@@ -3,7 +3,7 @@
 Design can be found [here](https://dribbble.com/shots/6510521-Travel-App-for-booking-unique-experience).
 
 
-https://user-images.githubusercontent.com/72572811/167532497-5d0d2f54-5c4e-44bc-b593-d2f0558cc655.mp4
+https://user-images.githubusercontent.com/72572811/167532818-eebecf55-5656-485d-82c0-0118a7308d75.mp4
 
 
 
