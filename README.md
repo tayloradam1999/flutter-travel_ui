@@ -7,6 +7,9 @@ https://user-images.githubusercontent.com/72572811/167532818-eebecf55-5656-485d-
 
 
 **Home page**
+  
 ![HomePage](https://github.com/tayloradam1999/flutter-travel_ui/blob/main/assets/readme/kgcEUsh1.png?raw=true)
-**Destination Page**
+  
+**Destination Page**  
+  
 ![DestinationPage](https://github.com/tayloradam1999/flutter-travel_ui/blob/main/assets/readme/COB2Jum1.png?raw=true)
